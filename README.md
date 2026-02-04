@@ -10,4 +10,6 @@ This project creates a basic bar chart using Python and matplotlib.
 1. Install matplotlib
 2. Run:
    python chart.py
+
+   
 ![Bar chart](study_hours.png)
